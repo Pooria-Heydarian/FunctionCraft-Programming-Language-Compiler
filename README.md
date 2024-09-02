@@ -41,9 +41,9 @@ This project is a complete implementation of a compiler for the **FunctionCraft 
 ### Data Types
 Supported Primitive data types include:
 - **Integer:** `int`
-- **Floating-Point: `float`
+- **Floating-Point:** `float`
 - **String:** `string`
 - **Boolean:** `bool`
 - **List:** `list`
-- **Function Pointer: `fptr`
+- **Function Pointer:** `fptr`
 
