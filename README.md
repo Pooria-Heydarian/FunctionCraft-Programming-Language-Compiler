@@ -28,7 +28,7 @@ This project is a complete implementation of a compiler for the **FunctionCraft 
   fptr = method(:function_name)
 ### Control Structures
 
-- **conditional Statements:
+- **conditional Statements:**
   ```plaintext
   if condition:
     # code
